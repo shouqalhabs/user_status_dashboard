@@ -82,4 +82,4 @@ Visit: http://localhost/user_status_dashboard/index.php
 ---
 
 ## Screenshot
-![user status admin view]()
+![user status admin view](https://github.com/shouqalhabs/user_status_dashboard/blob/main/user_status_dashboard.png?raw=true)
